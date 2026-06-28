@@ -13,8 +13,8 @@ BSc Computer Science, ELTE Budapest — MSc AI & Data Science, HHU Düsseldorf (
 
 ### Projects
 
-- [MedExplain AI](https://github.com/rahim-adnan/medexplain-ai) — multilingual medical report analysis with LLMs
-- [ASL Interpreter](https://github.com/rahim-adnan/asl-sign-language-interpreter) — real-time sign language detection via MediaPipe
+- [MedExplain AI](https://github.com/rahim-adnan/medical-report-explainer) — medical report analysis with LLMs
+- [ASL Interpreter](https://github.com/rahim-adnan/sign-language-interpreter) — real-time sign language detection via MediaPipe
 - [Web Research Agent](https://github.com/rahim-adnan/web-research-agent) — LLaMA 3 powered search and summarization
 - [AI PDF Q&A](https://github.com/rahim-adnan/ai-pdf-qa) — document Q&A using RAG
 
