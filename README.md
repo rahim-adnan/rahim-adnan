@@ -1,16 +1,23 @@
-## Hi there 👋
+# Adnan Rahim
 
-<!--
-**rahim-adnan/rahim-adnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer · Budapest, Hungary
 
-Here are some ideas to get you started:
+Building LLM applications, RAG pipelines, and computer vision systems.  
+BSc Computer Science, ELTE Budapest — MSc AI & Data Science, HHU Düsseldorf (2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Stack:** Python · LangChain · OpenCV · Flask · FastAPI · Docker
+
+---
+
+### Projects
+
+- [MedExplain AI](https://github.com/rahim-adnan/medexplain-ai) — multilingual medical report analysis with LLMs
+- [ASL Interpreter](https://github.com/rahim-adnan/asl-sign-language-interpreter) — real-time sign language detection via MediaPipe
+- [Web Research Agent](https://github.com/rahim-adnan/web-research-agent) — LLaMA 3 powered search and summarization
+- [AI PDF Q&A](https://github.com/rahim-adnan/ai-pdf-qa) — document Q&A using RAG
+
+---
+
+[Portfolio](https://rahim-adnan.github.io) · [LinkedIn](https://www.linkedin.com/in/adnan-rahim-565b90319/)
